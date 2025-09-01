@@ -34,24 +34,6 @@ The dataset used in this project typically includes features such as:
 ![Model Accuracy](photos/accuracy_of_models.png)
 *Model accuracy comparison across algorithms.*
 
-## Getting Started
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/Dharaneesh0205/Diabetes_Prediction.git
-    cd Diabetes_Prediction
-    ```
-
-2. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the main script:**
-    ```bash
-    python src/model_training.py
-    ```
-
 ## Results
 
 - Achieved high accuracy and recall using Random Forest and SVM classifiers.
