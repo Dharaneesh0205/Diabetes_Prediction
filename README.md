@@ -1,7 +1,5 @@
 # Diabetes Prediction
 
-![Diabetes Prediction Banner](images/diabetes_banner.png)
-
 ## Overview
 
 This project aims to predict diabetes in individuals using machine learning techniques. Leveraging a dataset containing medical and demographic information, the model helps in early detection and prevention by classifying whether a person is likely to have diabetes or not.
