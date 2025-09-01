@@ -26,13 +26,12 @@ The dataset used in this project typically includes features such as:
 
 *Sample Data Visualization:*
 
-![Correlation Heatmap](<img width="682" height="602" alt="image" src="https://github.com/user-attachments/assets/8abcb69a-6036-414e-aa6c-5edc317da10b" />
-)
+![Correlation Heatmap](<img width="682" height="602" alt="image" src="https://github.com/user-attachments/assets/299515d7-4eb8-499d-bf61-e630c7acc1cf" />)
 *Correlation heatmap showing relationships between features.*
 
 ## Model Performance
 
-![Model Accuracy](<img width="1003" height="547" alt="image" src="https://github.com/user-attachments/assets/3bbca895-5d5d-4a6b-a58a-d3bac67ea828" />
+![Model Accuracy](<img width="1003" height="547" alt="image" src="https://github.com/user-attachments/assets/85a4fb02-4ab7-4dba-9102-04e1dec71bd5" />
 )
 *Model accuracy comparison across algorithms.*
 
